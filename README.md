@@ -5,7 +5,8 @@ and then exports them for use in other projects.
 
 One Time Setup
 ==============
-    git clone ....
+
+    git clone https://github.com/brucemack/hello-typescript-package.git
     cd hello-typescript-package
     npm install
 
